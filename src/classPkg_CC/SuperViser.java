@@ -49,6 +49,11 @@ public class SuperViser extends Employee{
     @Override
     public void isTrainable() {
         //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+   
+    //hello this is a project to be done 
+    
+    
+    
     }
 
     @Override
