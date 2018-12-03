@@ -1,0 +1,2 @@
+2001,Abir,12345,coolboyify,098765,mirpur,IUB,20,20000,12000,male,Staff
+ID,name,password,email,phone,address,education,age,20000,joiningDate,male,Staff
