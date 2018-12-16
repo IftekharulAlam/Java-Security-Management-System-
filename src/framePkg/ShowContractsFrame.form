@@ -87,7 +87,7 @@
               <Component id="selectbtn" min="-2" max="-2" attributes="0"/>
               <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
               <Component id="foundLabel" min="-2" max="-2" attributes="0"/>
-              <EmptySpace pref="49" max="32767" attributes="0"/>
+              <EmptySpace pref="65" max="32767" attributes="0"/>
           </Group>
           <Component id="ContractPanel" alignment="0" max="32767" attributes="0"/>
       </Group>
@@ -271,9 +271,6 @@
       </Events>
     </Component>
     <Component class="javax.swing.JLabel" name="foundLabel">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="jLabel10"/>
-      </Properties>
     </Component>
   </SubComponents>
 </Form>

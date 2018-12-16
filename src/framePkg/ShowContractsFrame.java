@@ -206,8 +206,6 @@ String n="";
             }
         });
 
-        foundLabel.setText("jLabel10");
-
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -262,7 +260,7 @@ String n="";
                 .addComponent(selectbtn)
                 .addGap(37, 37, 37)
                 .addComponent(foundLabel)
-                .addContainerGap(49, Short.MAX_VALUE))
+                .addContainerGap(65, Short.MAX_VALUE))
             .addComponent(ContractPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
 
